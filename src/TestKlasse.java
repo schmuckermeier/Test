@@ -1,5 +1,5 @@
 
 public class TestKlasse {
   
-  // kleine Änderung
+  // kleine Änderungen
 }
